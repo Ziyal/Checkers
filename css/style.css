@@ -1,0 +1,28 @@
+* {
+    background-color: #7c7c7c;
+}
+
+#container {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.wrapper {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 558px;
+    background-color: lightgray;
+    padding: 35px;
+    border-radius: 20px;
+    border: dashed darkgray 2px;
+}
+
+table {
+    display: inline-block;
+}
+
+.moves {
+    background: yellow;
+}
